@@ -1,0 +1,2 @@
+# IndexesByFullPinyin
+右侧索引和汉字转换成全拼Demo
